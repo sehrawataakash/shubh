@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F6F1F1;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.position{
+    position: absolute;
+    right: 20px;
+}
+.position2{
+    position: absolute;
+    right: 20px;
+}
+.next{
+    display: inline-block;
+}
+.circular{
+    border-radius: 50%;
+}
